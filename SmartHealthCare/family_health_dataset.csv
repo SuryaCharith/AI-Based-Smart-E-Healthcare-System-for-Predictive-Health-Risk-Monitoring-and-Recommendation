@@ -1,0 +1,21 @@
+Heart Rate,Body Temperature,Oxygen Saturation,Systolic Blood Pressure,Diastolic Blood Pressure,Age,Gender,Derived_BMI,Risk Category
+72,36.8,98,120,80,22,Male,22.5,Low Risk
+85,37.1,95,130,85,40,Female,27.2,Medium Risk
+90,38,92,140,90,50,Male,30.1,High Risk
+65,36.5,99,110,70,22,Female,20,Low Risk
+78,37,96,125,82,35,Male,24.3,Medium Risk
+88,37.5,93,135,88,45,Female,29.5,High Risk
+70,36.7,97,118,78,28,Male,23,Low Risk
+92,38.2,91,145,95,55,Male,31.2,High Risk
+68,36.6,98,115,75,30,Female,21.8,Low Risk
+80,37.2,95,128,84,38,Male,26.5,Medium Risk
+75,36.9,97,122,80,27,Female,23.4,Low Risk
+89,37.8,93,138,89,48,Male,29.9,High Risk
+67,36.4,99,112,72,24,Female,19.5,Low Risk
+82,37.3,94,132,86,42,Male,27.8,Medium Risk
+91,38.1,92,142,92,53,Female,30.7,High Risk
+73,36.8,98,119,79,29,Male,22.9,Low Risk
+84,37.4,94,134,87,41,Female,28.3,Medium Risk
+93,38.3,90,148,96,60,Male,32.5,High Risk
+69,36.6,97,117,76,31,Female,21.5,Low Risk
+77,37,96,124,81,36,Male,25.6,Medium Risk
