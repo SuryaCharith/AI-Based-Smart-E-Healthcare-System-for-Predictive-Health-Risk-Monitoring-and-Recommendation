@@ -47,25 +47,41 @@ SmartHealthCare/
 
 ▶️ How to Run This Project
 📌 Prerequisites
+
 Python 3.7 or above
+
 pip installed
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/SuryaCharith/AI-Based-Smart-E-Healthcare-System-for-Predictive-Health-Risk-Monitoring-and-Recommendation.git
+
 cd AI-Based-Smart-E-Healthcare-System-for-Predictive-Health-Risk-Monitoring-and-Recommendation
+
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
+
 3️⃣ Run Flask Application
+
 python Main.py
+
 4️⃣ Open in Browser
 
 Go to:
 
-http://127.0.0.1:5000/
+http://127.0.0.1:5000/index
+
 5️⃣ Use the System
+
 Enter health parameters (age, BMI, etc.)
+
 Click on Predict
+
 View predicted health risk and recommendations
+
 ⚡ Quick Run (Using Batch Files - Windows)
+
 ▶️ Run Flask (Web App)
 
 Double-click:
