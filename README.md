@@ -19,6 +19,10 @@ Machine Learning (Random Forest / SVM)
 HTML, CSS
 Jupyter Notebook
 📁 Project Structure
+
+
+
+
 SmartHealthCare/
 │── Main.py
 │── requirements.txt
@@ -35,6 +39,12 @@ SmartHealthCare/
 │
 ├── templates/
 ├── static/
+
+
+
+
+
+
 ▶️ How to Run This Project
 📌 Prerequisites
 Python 3.7 or above
