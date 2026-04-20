@@ -142,4 +142,3 @@ Sumanth Kumar
 
 GitHub: https://github.com/pinnakasumanthkumar07
 GitHub: https://github.com/SuryaCharith
-LinkedIn: linkedin.com/in/venkata-surya-charith-ba8b3526b
