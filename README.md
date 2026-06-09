@@ -135,11 +135,4 @@ Real-time health tracking
 
 This project includes automation using .bat files, enabling users to run the application and Jupyter Notebook with a single click.
 
-Team Members:
 
-Sumanth Kumar
-Surya Charith
-Yokesh
-
-GitHub: https://github.com/SuryaCharith
-GitHub: https://github.com/pinnakasumanthkumar07
